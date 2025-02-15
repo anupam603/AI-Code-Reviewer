@@ -1,0 +1,5 @@
+💎 AI-code-reviewer
+ ┣ 📄 ai_code_reviewer.py  # Main Streamlit app
+ ┣ 📄 requirements.txt # Dependencies
+ ┣ 📄 README.md        # Project Documentation
+ ┗ 📄 Demo_Image.png   # Demo Screenshot
